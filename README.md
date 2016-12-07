@@ -6,3 +6,5 @@ These can easily be converted into C code (if not familiar with c++), one of the
 
 Usage :
 you just have to include the .h file in your main file and declare an object of class then simply call member functions using that object.
+
+# Find more at www.embeddedcrab.com
